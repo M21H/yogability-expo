@@ -2,7 +2,7 @@
   "expo": {
     "name": "Yogability",
     "slug": "Yogability",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
@@ -16,7 +16,8 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "org.name.yogability"
+      "bundleIdentifier": "org.name.yogability",
+      "buildNumber": "2"
     },
     "android": {
       "adaptiveIcon": {
@@ -24,7 +25,7 @@
         "backgroundColor": "#ffffff"
       },
       "package": "org.com.yogability",
-      "versionCode": 10
+      "versionCode": 3
     },
     "web": {
       "favicon": "./assets/favicon.png"
