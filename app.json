@@ -24,7 +24,7 @@
         "backgroundColor": "#ffffff"
       },
       "package": "org.com.yogability",
-      "versionCode": 2
+      "versionCode": 10
     },
     "web": {
       "favicon": "./assets/favicon.png"
